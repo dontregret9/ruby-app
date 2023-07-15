@@ -1,0 +1,5 @@
+{
+  "users": "[{ 'name': 'name1', 'age': 1 }, { 'name': 'name2', 'age': 2 }]",
+
+  "posts": "[{ 'title': 'The first post', 'content': 'This is content' }, { 'title': 'The second post', 'content':  'The second content' }]"
+}
